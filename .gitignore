@@ -23,3 +23,6 @@
 # Script TempFiles
 /scripts/outputs/**
 /scripts/work_temp/
+**/*.mtl
+**/*.obj
+.DS_Store
